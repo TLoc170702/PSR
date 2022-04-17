@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Controllers\\HomeController": "src/",
+            "Models\\User": "src/",
+            "Repositorirs\\Repository": "src/"
+        }
+    }
+}
